@@ -1,0 +1,432 @@
+{
+  "questions": [
+    {
+      "question": "Hi",
+      "answer": "Hello! How can I help you today?"
+    },
+    {
+      "question": "Hello",
+      "answer": "Hi there! What's on your mind?"
+    },
+    {
+      "question": "Hey",
+      "answer": "Hey! What would you like to talk about?"
+    },
+    {
+      "question": "What's up?",
+      "answer": "Not much! How about you? Need any help?"
+    },
+    {
+      "question": "Yo",
+      "answer": "Yo! How's it going?"
+    },
+    {
+      "question": "How are you?",
+      "answer": "I'm doing great, thanks for asking! How about you?"
+    },
+    {
+      "question": "What is mental health?",
+      "answer": "Mental health refers to emotional, psychological, and social well-being. It affects how we think, feel, and act."
+    },
+    {
+      "question": "What should I do if I'm feeling anxious?",
+      "answer": "Try breathing exercises, take a break, and talk to someone you trust. It's okay to ask for help."
+    },
+    {
+      "question": "I'm feeling down, what should I do?",
+      "answer": "It's okay to feel that way. You can talk to a friend, engage in something you enjoy, or consider seeking professional help if it persists."
+    },
+    {
+      "question": "How do I manage stress?",
+      "answer": "Take deep breaths, take breaks, exercise, and talk to someone. Stress is normal, but managing it is key!"
+    },
+    {
+      "question": "Can you help with anxiety?",
+      "answer": "Yes! Some ways to manage anxiety are practicing mindfulness, staying active, and talking about your feelings."
+    },
+    {
+      "question": "What is depression?",
+      "answer": "Depression is a common but serious mood disorder that affects how you feel, think, and handle daily activities."
+    },
+    {
+      "question": "How can I help a friend who's feeling depressed?",
+      "answer": "Listen without judgment, encourage them to seek help, and let them know you care."
+    },
+    {
+      "question": "What is self-care?",
+      "answer": "Self-care refers to the practice of taking care of your physical, mental, and emotional health."
+    },
+    {
+      "question": "How do I improve my sleep?",
+      "answer": "Maintain a regular sleep schedule, avoid caffeine before bed, and create a relaxing bedtime routine."
+    },
+    {
+      "question": "What are some signs of burnout?",
+      "answer": "Feeling exhausted, disengaged, overwhelmed, and losing interest in work or activities are common signs of burnout."
+    },
+    {
+      "question": "What is mindfulness?",
+      "answer": "Mindfulness is the practice of focusing on the present moment without judgment, helping to reduce stress and increase awareness."
+    },
+    {
+      "question": "How can I be more positive?",
+      "answer": "Try focusing on the positives in your life, practice gratitude, and surround yourself with uplifting people."
+    },
+    {
+      "question": "What is a good way to deal with anger?",
+      "answer": "Take deep breaths, walk away from the situation, and try to understand the cause of your anger before reacting."
+    },
+    {
+      "question": "How do I stay motivated?",
+      "answer": "Set small, achievable goals, track your progress, and reward yourself when you reach milestones."
+    },
+    {
+      "question": "How can I overcome procrastination?",
+      "answer": "Break tasks into smaller steps, set deadlines, and remove distractions. The hardest part is often just getting started!"
+    },
+    {
+      "question": "How can I improve my focus?",
+      "answer": "Minimize distractions, take regular breaks, and set clear, manageable tasks."
+    },
+    {
+      "question": "What is a healthy lifestyle?",
+      "answer": "A healthy lifestyle involves a balanced diet, regular exercise, good sleep, and mental well-being practices."
+    },
+    {
+      "question": "How do I deal with loneliness?",
+      "answer": "Try connecting with others, join a social group, or engage in activities that make you happy."
+    },
+    {
+      "question": "What should I do if I'm feeling overwhelmed?",
+      "answer": "Take a break, talk to someone you trust, and prioritize your tasks. It's okay to ask for help."
+    },
+    {
+      "question": "What is a support system?",
+      "answer": "A support system consists of people you trust and rely on for emotional or practical support, such as family, friends, or a therapist."
+    },
+    {
+      "question": "How do I talk to someone about my feelings?",
+      "answer": "Be honest, open, and clear about what you're feeling. It's okay to start by saying, 'I need to talk about something that's been bothering me.'"
+    },
+    {
+      "question": "What are coping strategies?",
+      "answer": "Coping strategies are ways to manage stress or difficult emotions, such as deep breathing, exercise, or seeking support."
+    },
+    {
+      "question": "How do I improve my self-esteem?",
+      "answer": "Practice self-compassion, set achievable goals, and surround yourself with positive influences."
+    },
+    {
+      "question": "How can I stay positive during difficult times?",
+      "answer": "Focus on the things you can control, stay connected with loved ones, and practice self-care."
+    },
+    {
+      "question": "What is resilience?",
+      "answer": "Resilience is the ability to bounce back from challenges, setbacks, or adversity. It involves adapting and staying strong."
+    },
+    {
+      "question": "What should I do if I'm feeling hopeless?",
+      "answer": "Talk to someone you trust, consider professional help, and take small steps toward improving your mental well-being."
+    },
+    {
+      "question": "How do I manage work-life balance?",
+      "answer": "Set boundaries between work and personal time, prioritize your tasks, and ensure you have time for relaxation and hobbies."
+    },
+    {
+      "question": "How can I stop negative thinking?",
+      "answer": "Challenge negative thoughts by focusing on positive aspects and practicing gratitude."
+    },
+    {
+      "question": "What is a therapist?",
+      "answer": "A therapist is a trained professional who helps people manage mental health issues through therapy or counseling."
+    },
+    {
+      "question": "How do I talk to a therapist?",
+      "answer": "Be open about your feelings, concerns, and any issues you're facing. Therapy is a safe space for you to express yourself."
+    },
+    {
+      "question": "How do I practice gratitude?",
+      "answer": "Take time each day to reflect on the things you are thankful for, whether big or small."
+    },
+    {
+      "question": "What is a trigger?",
+      "answer": "A trigger is something that causes a strong emotional or psychological reaction, often linked to past trauma or stress."
+    },
+    {
+      "question": "What is an emotional support animal?",
+      "answer": "An emotional support animal is a pet that provides comfort and support to someone with a mental health condition."
+    },
+    {
+      "question": "How can I help someone who is struggling with mental health?",
+      "answer": "Listen without judgment, encourage them to seek professional help, and be patient with their journey."
+    },
+    {
+      "question": "What is self-compassion?",
+      "answer": "Self-compassion involves treating yourself with the same kindness and understanding as you would treat a friend during tough times."
+    },
+    {
+      "question": "I'm feeling really sad today",
+      "answer": "I'm really sorry you're feeling this way. Want to talk about what's going on?"
+    },
+    {
+      "question": "I feel like no one understands me",
+      "answer": "It's tough when you feel that way. You're not alone, and it's okay to talk about how you feel. Would you like to share more?"
+    },
+    {
+      "question": "I'm so stressed out right now",
+      "answer": "Stress can be overwhelming. Would you like to try some relaxation techniques or talk about what's causing it?"
+    },
+    {
+      "question": "I'm feeling really lonely",
+      "answer": "Loneliness is a difficult feeling. It might help to connect with a friend or do something that brings you joy. Would you like some suggestions?"
+    },
+    {
+      "question": "I just can't seem to get motivated",
+      "answer": "Motivation can be hard sometimes. What's something small you can do today to get started?"
+    },
+    {
+      "question": "I'm tired of everything",
+      "answer": "I'm really sorry you're feeling this way. Sometimes taking a step back to breathe and reflect can help. Would you like to talk about what's been going on?"
+    },
+    {
+      "question": "I feel so overwhelmed with everything",
+      "answer": "It sounds like you have a lot on your plate. Would it help if we broke things down into smaller steps together?"
+    },
+    {
+      "question": "I'm just not feeling like myself",
+      "answer": "It's okay to feel off sometimes. Maybe it's helpful to reflect on what's changed recently or take some time to rest."
+    },
+    {
+      "question": "hi",
+      "answer": "hi"
+    },
+    {
+      "question": "im feeling happy",
+      "answer": ""
+    },
+    {
+      "question": "I wanted to ask a few questions",
+      "answer": "Sure how can i help you"
+    },
+    {
+      "question": "Im sad",
+      "answer": "why are you sad?"
+    },
+    {
+      "question": "What",
+      "answer": "what"
+    },
+    {
+      "question": "Yeah i would love to",
+      "answer": "Amazing let's dig in"
+    },
+    {
+      "question": "Great",
+      "answer": "& C:/Users/CHAITANYA/AppData/Local/Microsoft/WindowsApps/python3.12.exe d:/mental/mix.py"
+    },
+    {
+      "question": "How can I improve my grades?",
+      "answer": "Set specific goals, attend classes, engage with materials, seek guidance, and create a study schedule."
+    },
+    {
+      "question": "How should I manage my time for studies?",
+      "answer": "Prioritize tasks, break tasks into chunks, use calendars, set deadlines, and take breaks."
+    },
+    {
+      "question": "How should I maintain a balance between studying and relaxation/recreation?",
+      "answer": "Allocate time, engage in activities, set boundaries, practice self-care, and take breaks."
+    },
+    {
+      "question": "How can I keep myself calm under exam pressure?",
+      "answer": "Prepare thoroughly, practice relaxation techniques, visualize success, get enough sleep, and stay positive."
+    },
+    {
+      "question": "How should I stop comparing my academic performance with my classmates?",
+      "answer": "Focus on individual goals, celebrate progress, recognize unique strengths, avoid comparing on social media, and focus on learning."
+    },
+    {
+      "question": "How to handle peer pressure?",
+      "answer": "Identify values, surround yourself with positive influences, communicate boundaries, seek support, and prioritize self-respect."
+    },
+    {
+      "question": "How can I manage stress at work?",
+      "answer": "Prioritize tasks, take breaks, communicate with colleagues, establish boundaries, and practice self-care."
+    },
+    {
+      "question": "I have low self-confidence/self-esteem. How to work on this?",
+      "answer": "Identify positive qualities, practice self-compassion, challenge negative self-talk, set achievable goals, and celebrate successes."
+    },
+    {
+      "question": "How should I stop addiction to social media?",
+      "answer": "Set boundaries, replace social media with activities, practice mindfulness, seek support, and consider a digital detox."
+    },
+    {
+      "question": "How do I stop comparing my life to the lives of those on social media?",
+      "answer": "Recognize curated content, compare with real-life relationships, focus on your journey, celebrate unique experiences, and practice gratitude."
+    },
+    {
+      "question": "Why am I experiencing envy?",
+      "answer": "Insecurity, comparison, unhappiness with own life, fear of missing out, and unfulfilled desires."
+    },
+    {
+      "question": "How do I overcome it?",
+      "answer": "Recognize and challenge negative thoughts, focus on personal growth, practice gratitude, develop empathy, and cultivate self-acceptance."
+    },
+    {
+      "question": "How should I stop overthinking?",
+      "answer": "Practice mindfulness, challenge negative thoughts, engage in physical activity, journal thoughts, and seek professional help."
+    },
+    {
+      "question": "What kind of therapy will help me?",
+      "answer": "Cognitive-behavioral therapy, psychodynamic therapy, dialectical behavior therapy, mindfulness-based therapies, or consult a mental health professional."
+    },
+    {
+      "question": "How long will it take to feel better?",
+      "answer": "Progress varies, therapy duration depends on individual needs, patience and consistency are key, and celebrate small victories."
+    },
+    {
+      "question": "How can I explain my mental health to loved ones?",
+      "answer": "Be open, honest, and clear. Share how it affects your life and feelings, and encourage them to understand."
+    },
+    {
+      "question": "What are the physical symptoms of anxiety?",
+      "answer": "Physical symptoms of anxiety can include a racing heart, sweating, trembling, fatigue, and difficulty concentrating."
+    },
+    {
+      "question": "How can breathing exercises help with stress?",
+      "answer": "Breathing exercises can activate the body's relaxation response, helping to lower stress levels and calm the mind."
+    },
+    {
+      "question": "What is a panic attack?",
+      "answer": "A panic attack is a sudden, intense feeling of fear or discomfort accompanied by physical symptoms like rapid heartbeat, shortness of breath, and dizziness."
+    },
+    {
+      "question": "Can diet affect anxiety levels?",
+      "answer": "Yes, a balanced diet rich in nutrients can help regulate mood and energy levels, while excessive caffeine or sugar might increase anxiety."
+    },
+    {
+      "question": "What role does exercise play in reducing stress?",
+      "answer": "Regular exercise can reduce stress by releasing endorphins, improving mood, and promoting better sleep."
+    },
+    {
+      "question": "How can journaling help with stress and anxiety?",
+      "answer": "Journaling helps process emotions, identify triggers, and gain perspective on stressful situations."
+    },
+    {
+      "question": "What is cognitive-behavioral therapy (CBT)?",
+      "answer": "CBT is a type of therapy that helps individuals identify and change negative thought patterns to manage stress and anxiety effectively."
+    },
+    {
+      "question": "Can mindfulness reduce anxiety?",
+      "answer": "Yes, mindfulness practices like meditation and grounding exercises can help individuals stay present and manage anxious thoughts."
+    },
+    {
+      "question": "What are some grounding techniques for anxiety?",
+      "answer": "Techniques include the 5-4-3-2-1 method, deep breathing, holding an object, or focusing on physical sensations."
+    },
+    {
+      "question": "What is the difference between stress and anxiety?",
+      "answer": "Stress is a response to external pressure, while anxiety is an internal feeling of fear or worry that may not have an obvious cause."
+    },
+    {
+      "question": "How can I manage stress at school?",
+      "answer": "Plan your time effectively, take breaks, talk to a teacher or counselor, and practice relaxation techniques."
+    },
+    {
+      "question": "What should I do during an anxiety attack?",
+      "answer": "Focus on slow, deep breathing, use grounding techniques, and remind yourself that the attack will pass."
+    },
+    {
+      "question": "How can I prevent burnout?",
+      "answer": "Prioritize self-care, set boundaries, delegate tasks, and ensure you have time to relax and recharge."
+    },
+    {
+      "question": "Why do I feel anxious for no reason?",
+      "answer": "Anxiety can sometimes occur without an obvious trigger due to stress, underlying health conditions, or mental health issues."
+    },
+    {
+      "question": "How does sleep affect anxiety?",
+      "answer": "Poor sleep can increase anxiety levels, while quality sleep helps regulate emotions and reduce stress."
+    },
+    {
+      "question": "What is progressive muscle relaxation?",
+      "answer": "Progressive muscle relaxation involves tensing and relaxing muscle groups to reduce physical tension and calm the mind."
+    },
+    {
+      "question": "How can technology help with managing anxiety?",
+      "answer": "Apps for meditation, relaxation, and therapy can provide tools and resources for managing anxiety."
+    },
+    {
+      "question": "Can music reduce stress and anxiety?",
+      "answer": "Listening to calming music can lower cortisol levels and promote relaxation."
+    },
+    {
+      "question": "What are some quick ways to relieve stress?",
+      "answer": "Try deep breathing, a short walk, listening to music, or practicing mindfulness."
+    },
+    {
+      "question": "What is the fight-or-flight response?",
+      "answer": "The fight-or-flight response is the body's reaction to perceived threats, involving increased heart rate, faster breathing, and heightened alertness."
+    },
+    {
+      "question": "What are the signs of depression?",
+      "answer": "Signs of depression include persistent sadness, loss of interest in activities, fatigue, difficulty concentrating, and changes in sleep or appetite."
+    },
+    {
+      "question": "How can I cope with feelings of loneliness?",
+      "answer": "Reach out to friends or family, join social groups, engage in hobbies, or consider volunteering to connect with others."
+    },
+    {
+      "question": "What should I do if I feel isolated?",
+      "answer": "Try to connect with a trusted friend or family member, join a community group, or talk to a therapist for support."
+    },
+    {
+      "question": "How does depression affect daily life?",
+      "answer": "Depression can lead to difficulties in concentrating, low energy, withdrawal from social interactions, and a lack of interest in activities."
+    },
+    {
+      "question": "What is the difference between loneliness and being alone?",
+      "answer": "Being alone is a physical state of solitude, while loneliness is a feeling of sadness or emptiness despite being around others."
+    },
+    {
+      "question": "Can pets help with loneliness?",
+      "answer": "Yes, pets provide companionship, reduce stress, and give a sense of purpose, which can alleviate feelings of loneliness."
+    },
+    {
+      "question": "What is seasonal affective disorder (SAD)?",
+      "answer": "SAD is a type of depression that occurs at certain times of the year, often during winter, due to reduced sunlight exposure."
+    },
+    {
+      "question": "How can I help a loved one who feels isolated?",
+      "answer": "Encourage them to talk about their feelings, invite them to social activities, and offer consistent support and understanding."
+    },
+    {
+      "question": "What are some self-care strategies for depression?",
+      "answer": "Self-care strategies include regular exercise, maintaining a healthy diet, setting small goals, and seeking professional help."
+    },
+    {
+      "question": "How can I find support for depression?",
+      "answer": "Look for local or online support groups, reach out to mental health professionals, or talk to trusted friends and family."
+    },
+    {
+      "question": "Why do I feel lonely even around others?",
+      "answer": "This may be due to a lack of emotional connection or unresolved personal issues. Reflecting on these feelings and seeking support can help."
+    },
+    {
+      "question": "Can social media affect feelings of loneliness?",
+      "answer": "Yes, excessive use of social media can sometimes lead to feelings of comparison, inadequacy, and loneliness."
+    },
+    {
+      "question": "What role does therapy play in treating depression?",
+      "answer": "Therapy provides a safe space to explore emotions, identify triggers, and develop strategies to manage depression effectively."
+    },
+    {
+      "question": "What are the benefits of group therapy for loneliness?",
+      "answer": "Group therapy helps by connecting individuals with similar experiences, providing support, and reducing feelings of isolation."
+    },
+    {
+      "question": "How can mindfulness help with depression and loneliness?",
+      "answer": "Mindfulness can improve focus on the present moment, reduce negative thoughts, and enhance emotional well-being."
+    }
+  ]
+}

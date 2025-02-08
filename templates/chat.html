@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat - HarmonyAI</title>
+    <link rel="stylesheet" href="/static/chat-styles.css">
+</head>
+<body>
+    <div class="container">
+        <header class="chat-header">
+            <h1>HarmonyAI Chat</h1>
+            <a href="/signout" class="signout-button">Sign Out</a>
+        </header>
+        <div id="tabs">
+            <button class="tab-link" onclick="openTab(event, 'chatTab')">Chat</button>
+            <button class="tab-link" onclick="openTab(event, 'lastConversationTab')">Last Conversation</button>
+        </div>
+        <div id="chatTab" class="tab-content">
+            <div id="chat-box" class="chat-box"></div>
+            <div class="input-box">
+                <input type="text" id="user-input" placeholder="Type your message here...">
+                <button id="send-button">Send</button>
+            </div>
+        </div>
+        <div id="lastConversationTab" class="tab-content" style="display:none;">
+            <div id="last-conversation-box" class="chat-box">
+                {% for message in last_conversation %}
+                    <div class="message user">{{ message.user }}</div>
+                    <div class="message bot">{{ message.bot }}</div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    <script src="/static/script.js"></script>
+</body>
+</html>
